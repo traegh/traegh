@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Daniel Strach</h1>
+<h1 align="center">Hi 👋, I'm TRAEGH</h1>
 <h3 align="center">Fellow back-end developer from Poland</h3>
 
 - 🔭 I’m currently working on [railway crossing gates app](https://github.com/traegh/RailwayCrossingGates-App)
 - 🌱 I’m currently learning **Java, Kotlin**
 - 👨‍💻 All of my projects are available at [elusive.cash](elusive.cash)
-- 📫 How to reach me **strach.daniel.dev@gmail.com**
+- 📫 How to reach me **mrarab@wp.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
